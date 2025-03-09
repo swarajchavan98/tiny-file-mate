@@ -7,7 +7,7 @@ Tiny File Mate is a simple command-line tool for basic file management operation
 To install Tiny File Mate, clone the repository and install the dependencies:
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/swarajchavan98/tiny-file-mate.git
 cd tiny-file-mate
 npm install
 ```
