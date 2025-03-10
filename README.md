@@ -12,6 +12,13 @@ cd tiny-file-mate
 npm install
 ```
 
+Then, make the script executable and install it globally so you can run it from anywhere:
+
+```sh
+chmod +x fileManager.js
+npm link
+```
+
 ## Usage
 
 You can use Tiny File Mate by running the `tiny-file-mate` command followed by the desired operation.
